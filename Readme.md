@@ -2,6 +2,8 @@
 
 This project is a Python-based tool designed to perform cryptanalysis on text encrypted with the **Vigenère cipher**.
 
+A comprehensive explanation of the methodology can be found in the [accompanying PDF report](https://github.com/bbzaffari/VigenereDecryptor/blob/main/BrunoBZ_Vigenere.pdf)
+
 ## Description
 
 The code implements techniques to analyze and break the Vigenère cipher, a classical polyalphabetic substitution cipher. To deduce the key length and retrieve the original message, it uses:
