@@ -2,7 +2,7 @@
 
 This project is a Python-based tool designed to perform cryptanalysis on text encrypted with the **Vigenère cipher**.
 
-*A comprehensive explanation of the methodology can be found in the* [*accompanying IEEE report*](https://github.com/bbzaffari/VigenereDecryptor/blob/main/BrunoBZ_Vigenere.pdf), ***which was structured following the***![**Report**](https://img.shields.io/badge/Format-IEEE--style_Report-blue)
+*A comprehensive explanation of the methodology can be found in the* [*accompanying IEEE report*](https://github.com/bbzaffari/VigenereDecryptor/blob/main/BrunoBZ_Vigenere.pdf),\ ***which was structured following the***![**Report**](https://img.shields.io/badge/Format-IEEE--style_Report-blue)
  [***IEEE publication templates***](https://www.ieee.org/conferences/publishing/templates)
 
 ## Description
